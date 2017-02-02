@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Dogs.xcodeproj">
+      location = "self:/Users/knetter/Dropbox/iOS/Projects/DogsDictionary/Dogs.xcodeproj">
    </FileRef>
 </Workspace>
